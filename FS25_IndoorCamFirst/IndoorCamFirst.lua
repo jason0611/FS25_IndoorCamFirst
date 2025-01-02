@@ -1,6 +1,6 @@
 IndoorCamFirst = {};
-IndoorCamFirst.Version = "2.0.0.0";
-local myName = "FS22_IndoorCamFirst";
+IndoorCamFirst.Version = "3.0.0.0";
+local myName = "FS25_IndoorCamFirst";
 
 IndoorCamFirst.directory = g_currentModDirectory;
 
